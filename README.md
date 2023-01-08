@@ -5,8 +5,7 @@ Análisis y clusterización de meeting electoral para políticos hispanohablante
 
 -Python a de partir 3.9 y los siguientes paquetes/liberías:
 
-Package                      Version
----------------------------- ------------
+#Package                      Version
 -ffmpeg-python                0.2.0
 -ffmpy                        0.3.0
 -gradio                       3.14.0
